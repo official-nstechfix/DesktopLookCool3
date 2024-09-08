@@ -42,7 +42,7 @@ If you're interested in downloading a specific project or file:
 If you have any questions, suggestions, or just want to say hi, feel free to reach out:
 
 - **YouTube Channel**: [Your YouTube Channel Name](https://youtube.com/@nstechfix?si=2soLnJI-SB9e9WKt)
-- **Email**: [Your Email Address](nstechfix@gmail.com)
+
 
 
 ---
